@@ -1,0 +1,12 @@
+= NodeJS-Playground
+
+* *iteration_01*: Included and self-written modules, EventEmitter
+* *iteration_02*: class `Logger` extends `EventEmitter`
+* *iteration_03*: HTTP-Module
+* *iteration_04*: HTTP-Module Extended
+* *iteration_05*: Express.js
+
+* 01-04:
+    ** https://www.youtube.com/watch?v=TlB_eWDSMt4
+* 05:
+    ** https://www.youtube.com/watch?v=pKd0Rpw7O48

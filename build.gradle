@@ -1,0 +1,29 @@
+buildscript {
+    ext.repos = {
+        mavenCentral()
+        maven { url "https://plugins.gradle.org/m2/" }
+    }
+
+    dependencies {
+    }
+
+    repositories repos
+}
+
+
+plugins {
+    id "com.moowork.node" version "1.2.0"
+}
+
+apply plugin: "com.moowork.node"
+
+
+repositories repos
+
+
+group   = 'com.drandarov'
+version = '1.0'
+
+
+dependencies {
+}
